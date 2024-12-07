@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask,request,jsonify
 import json
 import base64
 import magic
